@@ -1,10 +1,10 @@
-package com.eugeniogreco.magicstore;
+package com.eugeniogreco.magicstoreproductservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MagicstoreApplicationTests {
+class MagicstoreProductServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
